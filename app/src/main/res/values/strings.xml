@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SpiderGTest</string>
+    <string name="tool_title">Classic Rock Songs</string>
+
+    <string-array name="showlist">
+        <item>GnR - November Rain</item>
+        <item>Niravana - Smells Like Teen Spirit</item>
+        <item>Phil Collins - Another day in paradise</item>
+        <item>Linkin Park - In The End</item>
+        <item>AC/DC - You Shook Me All Night Long</item>
+        <item>GnR - Sweet Child O Mine</item>
+        <item>Pink Floyd - Another Brick in The Wall</item>
+        <item>3 Doors Down - Kryptonite</item>
+        <item>Soul Asylum - Runaway Train</item>
+    </string-array>
+
+    <string-array name="videos">
+        <item>8SbUC-UaAxE</item>
+        <!-- GnR - November Rain-->
+        <item>hTWKbfoikeg</item>
+        <!-- Nirvana - SLTS-->
+        <item>Qt2mbGP6vFI</item>
+        <!-- Phil Collins - Another day in paradise-->
+        <item>1yw1Tgj9-VU</item>
+        <!-- Linkin Park - In the end-->
+        <item>Lo2qQmj0_h4</item>
+        <!-- AC/DC - You shook me all night long-->
+        <item>1w7OgIMMRc4</item> <!--SweetCHildoMine-->
+        <item>YR5ApYxkU-U</item> <!--PinkFLoyd-->
+        <item>xPU8OAjjS4k</item> <!--3doorddown-->
+        <item>NRtvqT_wMeY</item> <!--Asylum-->
+    </string-array>
+</resources>
